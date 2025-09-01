@@ -49,3 +49,4 @@ It helped me understand **secure cloud practices** and gave me confidence to man
 ## 📂 Project Files
 - PDF of the project guide: [NextWork-AWS-Project.pdf](NextWork-AWS-Project.pdf)  
 - All screenshots are in the `images` folder.
+
