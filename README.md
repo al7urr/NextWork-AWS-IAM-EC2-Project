@@ -47,5 +47,5 @@ I chose this project to **gain hands-on experience with AWS access management an
 It helped me understand **secure cloud practices** and gave me confidence to manage real AWS environments.
 
 ## 📂 Project Files
-- PDF of the project guide: [NextWork-AWS-Project.pdf](NextWork-AWS-Project.pdf)  
+- PDF of the project guide: [NextWork-AWS-Project.pdf](NextWork-AWS-IAM-EC2-Project/NextWork-AWS-Project.pdf)  
 - All screenshots are in the `images` folder.
